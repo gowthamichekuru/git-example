@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, teams!");
+            Console.WriteLine("Hello, team digital scripts!");
         }
     }
 }
